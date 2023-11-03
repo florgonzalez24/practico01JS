@@ -17,3 +17,10 @@ let nombre = 'Florencia', apellido = 'Gonzalez';
 let nombreCompleto = (nombre + ' ' + apellido);
 
 console.log('El nombre completo es: ' + nombreCompleto);
+
+//ejercicio 03
+let gradosCelsius = 24;
+
+let gradosFahrenheit = (gradosCelsius * 9/5) + 32;
+
+console.log(gradosCelsius + ' grados celsius equivalen a ' + gradosFahrenheit + ' grados fahrenheit');
