@@ -1,5 +1,7 @@
 //length -> cantidad de caracteres de un string<
 //frase.charAT(0)<
+//frase.toLowerCase() pasa el contenido de la frase a minuscula
+
 const frase = prompt("Ingrese una frase");
 console.log(frase.length);
 console.log(frase);
